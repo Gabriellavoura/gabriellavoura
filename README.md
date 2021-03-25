@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/Gabriellavoura/gabriellavoura/main/images/header.png "Header")](https://gabriellavoura.com.br/)
+[![Header](https://raw.githubusercontent.com/Gabriellavoura/gabriellavoura/main/images/header.png "Header")](https://www.gabriellavoura.com.br/)
 
 ### Hi there, I'm Gabriel Lavoura 👋
 
@@ -7,7 +7,7 @@ I'm an Automation Engineer, MS student in Computer Engineering, working as a Sof
 
 
 ## &#x270d; Blog & Writing
-You can find some tips and tools about development, gamedev and DevOps on my website at [gabriellavoura.com.br](https://gabriellavoura.com.br/) as well as on [DEV.to](https://dev.to/gabriellavoura).
+You can find some tips and tools about development, gamedev and DevOps on my website at [gabriellavoura.com.br](https://www.gabriellavoura.com.br/) as well as on [DEV.to](https://dev.to/gabriellavoura).
 
 
 ## &#x1f4c8; GitHub Stats
