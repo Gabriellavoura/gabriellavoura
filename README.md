@@ -13,7 +13,7 @@ You can find some tips and tools about development, gamedev and DevOps on my web
 ## &#x1f4c8; GitHub Stats
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellavoura&show_icons=true&count_private=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellavoura&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellavoura&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Social Media
 
