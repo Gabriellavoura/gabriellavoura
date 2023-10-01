@@ -1,12 +1,7 @@
-
-[![Header](https://raw.githubusercontent.com/Gabriellavoura/gabriellavoura/main/images/header.png "Header")](https://www.gabriellavoura.com.br/)
-
 ## Hi there, I'm Gabriel Lavoura👋
-I'm a software engineer, currently working with game development at [Beta2Games 🎮](https://www.beta2games.com/), Professor at [Computer Science Center (C3) - FURG](https://www.furg.br/) and Researcher at [EMBRAPII iTec](http://itecfurg.org/).
+I'm a software engineer, currently working with game development at [Beta2Games 🎮](https://www.beta2games.com/) and Technical Project Manager at [EMBRAPII iTec](http://itecfurg.org/).
 
 :mortar_board: MSc Computer Engineering. 
-
-:man_student: BSc Automation Engineering
 
 ## &#x270d; Blog & Writing
 
