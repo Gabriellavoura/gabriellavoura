@@ -8,13 +8,14 @@ I'm a software engineer, currently working with game development at [Beta2Games 
 You can find some tips and tools about development, gamedev and DevOps on my website at [gabriellavoura.com.br](https://www.gabriellavoura.com.br/) as well as on [DEV.to](https://dev.to/gabriellavoura).
 
 
-## &#x1f4c8; GitHub Stats
+<!--## &#x1f4c8; GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabriellavoura&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" alt="Github Stats">
 
 
 <!--![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellavoura&show_icons=true&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellavoura&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
+
 
 
 ## 🔎 How to reach me
