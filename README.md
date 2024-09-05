@@ -1,5 +1,5 @@
 ## Hi there, I'm Gabriel Lavoura👋
-I'm a software engineer, currently working with game development at [Beta2Games 🎮](https://www.beta2games.com/) and Technical Project Manager at [EMBRAPII iTec](http://itecfurg.org/).
+I'm a software engineer, currently working with game development at [Beta2Games 🎮](https://www.beta2games.com/) and Engineering Manager at [EMBRAPII iTec](http://itecfurg.org/).
 
 :mortar_board: MSc Computer Engineering. 
 
