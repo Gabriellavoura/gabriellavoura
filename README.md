@@ -1,12 +1,12 @@
 ## Hi there, I'm Gabriel Lavoura👋
-I'm a software engineer, currently working with game development at [Beta2Games 🎮](https://www.beta2games.com/) and Engineering Manager at [EMBRAPII iTec](http://itecfurg.org/).
+I'm an Engineering Manager at [EMBRAPII iTec](http://itecfurg.org/) and a Software Engineer Consultant at [Beta2Games 🎮](https://www.beta2games.com/).
 
-:mortar_board: PhD Candidate in Computer Engineering 
-:mortar_board: Master’s Degree in Computer Engineering
+- :mortar_board: PhD Candidate in Computer Engineering
+- :mortar_board: MSc in Computer Engineering
 
 ## &#x270d; Blog & Writing
 
-You can find some tips and tools about development, gamedev and DevOps on my website at [gabriellavoura.com.br](https://www.gabriellavoura.com.br/) as well as on [DEV.to](https://dev.to/gabriellavoura).
+I share tips, tools, and insights about development, game dev, and DevOps on my website [gabriellavoura.com.br](https://www.gabriellavoura.com.br/) and on [DEV.to](https://dev.to/gabriellavoura).
 
 
 <!--## &#x1f4c8; GitHub Stats
@@ -25,19 +25,3 @@ You can find some tips and tools about development, gamedev and DevOps on my web
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriellavoura)
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gabriellavoura)
 
-
-
-<!--
-**Gabriellavoura/gabriellavoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
